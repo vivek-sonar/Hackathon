@@ -1,0 +1,36 @@
+.height {
+    height: 60vh;
+}
+
+.round{
+    border-radius: 50px;
+}
+
+.width {
+    width: 35%;
+}
+
+.padding {
+    padding-left: 2%;
+    padding-right: 3%;
+}
+
+
+/* 
+@media screen and (max-width:746px) {
+    .width {
+        width: 75%;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .width {
+        width: 50%;
+    } 
+ }
+
+ @media screen and (max-width:300px) {
+    .width {
+        width: 75%;
+    }
+ } */

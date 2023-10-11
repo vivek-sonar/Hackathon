@@ -1,0 +1,27 @@
+.category{
+    height: 15vh;
+    width: 15vh;
+    margin: 2%;
+    background: #a2ccf3;
+    border-radius:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.height {
+    height: 60vh;
+}
+
+.h{
+  height: 14vh;
+  width: 14vh;
+  border-radius:30px;
+    
+}
+
+.category :hover{
+  height: 15vh;
+  width: 15vh;
+}
+
